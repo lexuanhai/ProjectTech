@@ -1,0 +1,17 @@
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Reponsitory.deps.json
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Reponsitory.dll
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Reponsitory.pdb
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Domain.dll
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Dto.dll
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Domain.pdb
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\bin\Debug\net6.0\Dto.pdb
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.csproj.AssemblyReference.cache
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.AssemblyInfoInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.AssemblyInfo.cs
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.csproj.CoreCompileInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.csproj.CopyComplete
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.dll
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\refint\Reponsitory.dll
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.pdb
+E:\ProjectJob\ProjectSell\TECH\Reponsitory\obj\Debug\net6.0\ref\Reponsitory.dll

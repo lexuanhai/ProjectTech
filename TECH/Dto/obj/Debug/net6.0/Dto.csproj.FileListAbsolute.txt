@@ -1,0 +1,14 @@
+E:\ProjectJob\ProjectSell\TECH\Dto\bin\Debug\net6.0\Dto.deps.json
+E:\ProjectJob\ProjectSell\TECH\Dto\bin\Debug\net6.0\Dto.dll
+E:\ProjectJob\ProjectSell\TECH\Dto\bin\Debug\net6.0\Dto.pdb
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.csproj.AssemblyReference.cache
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfoInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.AssemblyInfo.cs
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.csproj.CoreCompileInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.dll
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\refint\Dto.dll
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.pdb
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\ref\Dto.dll
+E:\ProjectJob\ProjectSell\TECH\Dto\bin\Debug\net6.0\Dto.runtimeconfig.json
+E:\ProjectJob\ProjectSell\TECH\Dto\obj\Debug\net6.0\Dto.genruntimeconfig.cache

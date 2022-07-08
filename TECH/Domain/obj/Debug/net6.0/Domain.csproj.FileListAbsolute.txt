@@ -1,0 +1,14 @@
+E:\ProjectJob\ProjectSell\TECH\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\ProjectJob\ProjectSell\TECH\Domain\bin\Debug\net6.0\Domain.dll
+E:\ProjectJob\ProjectSell\TECH\Domain\bin\Debug\net6.0\Domain.pdb
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.dll
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.pdb
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\ProjectJob\ProjectSell\TECH\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+E:\ProjectJob\ProjectSell\TECH\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
