@@ -30,7 +30,7 @@ namespace Service
             var categories = _categoryRepository.GetAll().Select(c => new CategoryModel()
             {
                 Id = c.Id,
-                Name = c.Name
+                //Name = c.Name
 
             }).ToList();
 

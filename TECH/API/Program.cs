@@ -7,6 +7,7 @@ using API.Models;
 using System.Text;
 using Reponsitory;
 using Service;
+using Domain;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,10 +24,21 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<MyDbContext>(options =>
+builder.Services.AddDbContext<DatabaseCustomContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("MyDB"));
+    // Đọc chuỗi kết nối
+    string connectstring = builder.Configuration.GetConnectionString("ConnectionStrings");
+    // Sử dụng MS SQL Server
+    options.UseSqlServer(connectstring);
 });
+
+//var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+//builder.Services.AddDbContext<DatabaseContext>(options =>
+//{
+//    options.UseSqlServer(connectionString, ServerVersion.AutoDetect(connectionString));
+//});
+
+
 
 builder.Services.Configure<AppSetting>(builder.Configuration.GetSection("AppSettings"));
 

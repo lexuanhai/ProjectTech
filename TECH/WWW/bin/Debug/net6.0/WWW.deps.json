@@ -8,10 +8,12 @@
     ".NETCoreApp,Version=v6.0": {
       "WWW/1.0.0": {
         "dependencies": {
-          "Domain": "1.0.0",
-          "Dto": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.6",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.6",
-          "Newtonsoft.Json": "13.0.1"
+          "Newtonsoft.Json": "13.0.1",
+          "Domain": "1.0.0.0",
+          "Dto": "1.0.0.0"
         },
         "runtime": {
           "WWW.dll": {}
@@ -2199,22 +2201,20 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "Domain/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6"
-        },
+      "Domain/1.0.0.0": {
         "runtime": {
-          "Domain.dll": {}
+          "Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
-      "Dto/1.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "6.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.6"
-        },
+      "Dto/1.0.0.0": {
         "runtime": {
-          "Dto.dll": {}
+          "Dto.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -3408,13 +3408,13 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "Domain/1.0.0": {
-      "type": "project",
+    "Domain/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "Dto/1.0.0": {
-      "type": "project",
+    "Dto/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectJob\\ProjectSell\\TECH\\API\\API.csproj": {}
+    "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\ProjectJob\\ProjectSell\\TECH\\API\\API.csproj": {
+    "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectJob\\ProjectSell\\TECH\\API\\API.csproj",
+        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\API\\API.csproj",
+        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectJob\\ProjectSell\\TECH\\API\\obj\\",
+        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\Service.csproj": {
-                "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\Service.csproj"
+              "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj": {
+                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj"
               }
             }
           }
@@ -49,6 +49,34 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,18 +87,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\Domain.csproj": {
+    "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\Domain.csproj",
+        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\obj\\",
+        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -104,6 +140,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -114,18 +172,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\Dto.csproj": {
+    "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\Dto.csproj",
+        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\Dto.csproj",
+        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\obj\\",
+        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -159,6 +222,22 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -169,18 +248,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\Reponsitory.csproj": {
+    "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\Reponsitory.csproj",
+        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj",
         "projectName": "Reponsitory",
-        "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\Reponsitory.csproj",
+        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\obj\\",
+        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -203,11 +287,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Domain\\Domain.csproj"
+              "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj"
               },
-              "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\Dto.csproj": {
-                "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Dto\\Dto.csproj"
+              "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj": {
+                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj"
               }
             }
           }
@@ -221,6 +305,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -231,18 +321,23 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\Service.csproj": {
+    "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\Service.csproj",
+        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\Service.csproj",
+        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Service\\obj\\",
+        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -265,8 +360,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\Reponsitory.csproj": {
-                "projectPath": "E:\\ProjectJob\\ProjectSell\\TECH\\Reponsitory\\Reponsitory.csproj"
+              "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj": {
+                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj"
               }
             }
           }
@@ -290,7 +385,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
