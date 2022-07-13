@@ -49,3 +49,5 @@ E:\c#\API\BeautyGarden\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.dll
 E:\c#\API\BeautyGarden\TECH\Reponsitory\obj\Debug\net6.0\refint\Reponsitory.dll
 E:\c#\API\BeautyGarden\TECH\Reponsitory\obj\Debug\net6.0\Reponsitory.pdb
 E:\c#\API\BeautyGarden\TECH\Reponsitory\obj\Debug\net6.0\ref\Reponsitory.dll
+E:\c#\API\BeautyGarden\TECH\Reponsitory\bin\Debug\net6.0\Common.dll
+E:\c#\API\BeautyGarden\TECH\Reponsitory\bin\Debug\net6.0\Common.pdb

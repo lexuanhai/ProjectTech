@@ -265,7 +265,6 @@ E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfi
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.AssemblyInfo.cs
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
-E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\staticwebassets.build.json
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\staticwebassets.development.json
@@ -276,3 +275,6 @@ E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\refint\API.dll
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.pdb
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\ref\API.dll
+E:\c#\API\BeautyGarden\TECH\API\bin\Debug\net6.0\Common.dll
+E:\c#\API\BeautyGarden\TECH\API\bin\Debug\net6.0\Common.pdb
+E:\c#\API\BeautyGarden\TECH\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs

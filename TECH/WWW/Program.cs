@@ -10,7 +10,7 @@ builder.Services.AddMvc().AddJsonOptions(o =>
     o.JsonSerializerOptions.DictionaryKeyPolicy = null;
 });
 
-builder.Services.AddDbContext<DatabaseCustomContext>(options =>
+builder.Services.AddDbContext<DatabaseContext>(options =>
 {
     // Đọc chuỗi kết nối
     string connectstring = builder.Configuration.GetConnectionString("ConnectionStrings");    

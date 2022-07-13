@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Domain
 {
-    public class DatabaseCustomContext:DbContext
+    public class DatabaseContext:DbContext
     {
-        public DatabaseCustomContext(DbContextOptions options) : base(options)
+        public DatabaseContext(DbContextOptions options) : base(options)
         {
 
         }

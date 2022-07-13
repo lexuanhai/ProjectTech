@@ -796,3 +796,6 @@ E:\c#\API\BeautyGarden\TECH\WWW\obj\Debug\net6.0\refint\WWW.dll
 E:\c#\API\BeautyGarden\TECH\WWW\obj\Debug\net6.0\WWW.pdb
 E:\c#\API\BeautyGarden\TECH\WWW\obj\Debug\net6.0\WWW.genruntimeconfig.cache
 E:\c#\API\BeautyGarden\TECH\WWW\obj\Debug\net6.0\ref\WWW.dll
+E:\c#\API\BeautyGarden\TECH\WWW\bin\Debug\net6.0\Common.dll
+E:\c#\API\BeautyGarden\TECH\WWW\bin\Debug\net6.0\Common.pdb
+E:\c#\API\BeautyGarden\TECH\WWW\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

@@ -3,3 +3,10 @@ E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEdito
 E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
 E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
 E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+E:\c#\API\BeautyGarden\TECH\Common\bin\Debug\net6.0\Common.deps.json
+E:\c#\API\BeautyGarden\TECH\Common\bin\Debug\net6.0\Common.dll
+E:\c#\API\BeautyGarden\TECH\Common\bin\Debug\net6.0\Common.pdb
+E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.dll
+E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\refint\Common.dll
+E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\Common.pdb
+E:\c#\API\BeautyGarden\TECH\Common\obj\Debug\net6.0\ref\Common.dll

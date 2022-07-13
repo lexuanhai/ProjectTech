@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common.Entity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -23,7 +24,7 @@ namespace Domain
 
         public Category? CategoryParent { get; set; }
 
-        public bool Status { get; set; }
+        public CategoryStatus? Status { get; set; }
 
     }
 }
