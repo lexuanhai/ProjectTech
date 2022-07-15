@@ -8,53 +8,53 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WWW
 build_property.RootNamespace = WWW
-build_property.ProjectDir = E:\c#\API\BeautyGarden\TECH\WWW\
+build_property.ProjectDir = C:\hoc tap\TECH\WWW\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\c#\API\BeautyGarden\TECH\WWW
+build_property.MSBuildProjectDirectory = C:\hoc tap\TECH\WWW
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Acount/Register.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Acount/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNvdW50XFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Dashboard/Index.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Home/GetAllCategory.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Home/GetAllCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHZXRBbGxDYXRlZ29yeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Home/Index.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Home/LoginUser.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Home/LoginUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Home/Privacy.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Shared/Error.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/_ViewImports.cshtml]
+[C:/hoc tap/TECH/WWW/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/_ViewStart.cshtml]
+[C:/hoc tap/TECH/WWW/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/c\#/API/BeautyGarden/TECH/WWW/Views/Shared/_Layout.cshtml]
+[C:/hoc tap/TECH/WWW/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tx9dwuwgt5

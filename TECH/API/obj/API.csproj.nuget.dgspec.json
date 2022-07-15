@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj": {}
+    "C:\\hoc tap\\TECH\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj": {
+    "C:\\hoc tap\\TECH\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj",
+        "projectUniqueName": "C:\\hoc tap\\TECH\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\API\\obj\\",
+        "projectPath": "C:\\hoc tap\\TECH\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\ttimem15\\.nuget\\packages\\",
+        "outputPath": "C:\\hoc tap\\TECH\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emcua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ttimem15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -34,8 +34,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj": {
-                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj"
+              "C:\\hoc tap\\TECH\\Service\\Service.csproj": {
+                "projectPath": "C:\\hoc tap\\TECH\\Service\\Service.csproj"
               }
             }
           }
@@ -63,21 +63,21 @@
         }
       }
     },
-    "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj": {
+    "C:\\hoc tap\\TECH\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\hoc tap\\TECH\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\obj\\",
+        "projectPath": "C:\\hoc tap\\TECH\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\ttimem15\\.nuget\\packages\\",
+        "outputPath": "C:\\hoc tap\\TECH\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emcua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ttimem15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -118,21 +118,21 @@
         }
       }
     },
-    "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj": {
+    "C:\\hoc tap\\TECH\\Dto\\Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj",
+        "projectUniqueName": "C:\\hoc tap\\TECH\\Dto\\Dto.csproj",
         "projectName": "Dto",
-        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj",
-        "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\obj\\",
+        "projectPath": "C:\\hoc tap\\TECH\\Dto\\Dto.csproj",
+        "packagesPath": "C:\\Users\\ttimem15\\.nuget\\packages\\",
+        "outputPath": "C:\\hoc tap\\TECH\\Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emcua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ttimem15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -173,21 +173,21 @@
         }
       }
     },
-    "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj": {
+    "C:\\hoc tap\\TECH\\Reponsitory\\Reponsitory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj",
+        "projectUniqueName": "C:\\hoc tap\\TECH\\Reponsitory\\Reponsitory.csproj",
         "projectName": "Reponsitory",
-        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj",
-        "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\obj\\",
+        "projectPath": "C:\\hoc tap\\TECH\\Reponsitory\\Reponsitory.csproj",
+        "packagesPath": "C:\\Users\\ttimem15\\.nuget\\packages\\",
+        "outputPath": "C:\\hoc tap\\TECH\\Reponsitory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emcua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ttimem15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -203,11 +203,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Domain\\Domain.csproj"
+              "C:\\hoc tap\\TECH\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\hoc tap\\TECH\\Domain\\Domain.csproj"
               },
-              "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj": {
-                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Dto\\Dto.csproj"
+              "C:\\hoc tap\\TECH\\Dto\\Dto.csproj": {
+                "projectPath": "C:\\hoc tap\\TECH\\Dto\\Dto.csproj"
               }
             }
           }
@@ -235,21 +235,21 @@
         }
       }
     },
-    "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj": {
+    "C:\\hoc tap\\TECH\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\hoc tap\\TECH\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\emcua\\.nuget\\packages\\",
-        "outputPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Service\\obj\\",
+        "projectPath": "C:\\hoc tap\\TECH\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\ttimem15\\.nuget\\packages\\",
+        "outputPath": "C:\\hoc tap\\TECH\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\emcua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ttimem15\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -265,8 +265,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj": {
-                "projectPath": "E:\\c#\\API\\BeautyGarden\\TECH\\Reponsitory\\Reponsitory.csproj"
+              "C:\\hoc tap\\TECH\\Reponsitory\\Reponsitory.csproj": {
+                "projectPath": "C:\\hoc tap\\TECH\\Reponsitory\\Reponsitory.csproj"
               }
             }
           }
